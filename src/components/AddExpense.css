@@ -1,0 +1,14 @@
+#listupdate {
+  display: flex;
+  flex-direction: column;
+}
+
+.bt-con {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+
+.form-control {
+  border-radius: 25px;
+}

@@ -1,0 +1,53 @@
+#expenselist {
+    background-color: rgb(49, 46, 46);
+    display: flex;
+    border-radius: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.listoutput {
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    align-items: center;
+}
+
+.list {
+    padding: 0;
+    margin: 10px 10px;
+}
+
+.card {
+    background-color: black;
+    border-radius: 25px;
+    width: 500px;
+}
+
+#name_cost {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.btns {
+    width: 70px;
+    border-radius: 25px;
+}
+
+#name_cost {
+    margin-top: 15px;
+}
+
+input {
+    background-color: rgb(105, 105, 105);
+    color: white;
+
+}
+
+/* @media only screen and (max-width: 769px) {
+    body {
+      background-color: lightblue;
+    }
+  } */
+
