@@ -7,7 +7,7 @@ import ExpenseList from "./components/ExpenseList";
 function App() {
   return (
     <Container
-      className="my-3"
+      className="my-3 text-center"
       style={{ backgroundColor: "antiquewhite" }}
     >
       <AddExpense />
